@@ -19,6 +19,7 @@ def accum(s):
     return '-'.join((n*(i+1)).title() for i,n in enumerate(s))
 ```
 
+
 6. to_do_react (learning project) (HTML, CSS, React JS, Tailwind)
 https://github.com/sateras/to_do_react
 7. In 2020, I graduated from the gymnasium and entered the KTU (Faculty of Innovative Technologies)
