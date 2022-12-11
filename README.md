@@ -1,1 +1,1 @@
-https://sateras.github.io/rsschool-cv/cv
+https://sateras.github.io/rsschool-cv/
