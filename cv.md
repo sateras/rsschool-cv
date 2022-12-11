@@ -2,7 +2,7 @@
 2. Contacts:
     * satpekov02@mail.ru
     * maloscire (telegram)
-3. 
+3. I am a third year student of KTU. I started learning python programming, wrote various parsers and telegram bots. Then we were given the task to study mobile development, which I did, I have knowledge of Flutter (I even won a place in a programming competition). And in the end I decided to study Frontend development.
 4. Skills:
     * JS
     * HTML&CSS
